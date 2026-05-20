@@ -1,5 +1,3 @@
-Give me a github description for this code
-
 import express from "express";
 import WebSocket from "ws";
 
